@@ -31,6 +31,10 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/poush/lazytools. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
+1. Fork this repo
+2. Clone it
+3. Add changes
+4. Make a PR with your changes
 
 ## License
 
