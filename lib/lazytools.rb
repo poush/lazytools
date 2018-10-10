@@ -1,5 +1,7 @@
 require "lazytools/version"
 
 module Lazytools
-  # Your code goes here...
+  def update_all_homebrew_package
+    system("brew update && brew upgrade && brew cleanup")
+  end
 end
