@@ -7,3 +7,6 @@ To give you an idea, think of something set of terminal commands which are used 
 3. Cleanup merged git branches
 4. Update, upgrade, and clean-up old version of Homebrew package.
 5. Update, upgrade, and clean-up old version of APT packages.
+6. Linting, adding files, committing with a message and pushing to current branch in single command
+7. clone and change directory in single command
+8. kill unused till a threshold + not responding applications 
